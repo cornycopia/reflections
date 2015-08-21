@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug
+that was introduced?
+Well, when looking at the diffs, I can easily see the changes that were made
+by the next person/s who touched the code. All that's left after that would be
+to look through the changes made, and debug those.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+Having easy access to any of the previous versions of the file will allow me
+to see all of the changes that were made to it at any point in time. This will
+definitely be helpful when debugging, or even when just going through how the
+file evolved to become what it is now.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like
+Google Docs does?
+I feel that this way would make the changes have more sense, rather than just
+having random versions saved from time to time.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file
+separately?
+The way Git is used is for code, and the way code is usually written is in
+sets of several files, needed for that single program. Others, like Google
+Docs, usually only have the user working on a file at a time, and don't often
+have a correlation among the other files.
+
+How can you use the commands git log and git diff to view the history of
+files?
+Git log easily shows me the commit history, while git diff allows me to see
+the changes that occurred across different commits. 
+
+How might using version control make you more confident to make changes that
+could break something?
+I always have backups for all of my changes, so I'll always be able to revert
+back to the previous versions.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to use it to help me with my work on my soon-to-be-created programming projects.
