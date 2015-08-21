@@ -15,3 +15,6 @@ We're able to add on as many branches as we would want/need, and we can change t
 
 How do the diagrams help you visualize the branch structure?
 The visualization is great in showing me how the different branches extend out from the original/master branch/es, and also help show me the accessibility.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The merging of the files results in a "final" version of the file which compares, and combines the files from the two branches. It's represented that way, because it shows the two branches coming together.
