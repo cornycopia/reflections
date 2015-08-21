@@ -5,3 +5,13 @@ This is needed so that we can see the log/status/etc, as well as use the other g
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is an intermediary between your working directory, and the files that are in the repository.
 This allows you to specify which files you would like to add at a time, so that you can collate files into one "logical change" before submitting it.
+
+How can you use the staging area to make sure you have one commit per logical change?
+The staging area acts as a sort of temporary location where you can put all of the files that you're changing for your next commit. This can make sure that the files you're committing are only the ones connected to that logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+As how it was explained in the tutorial, it helps if we want to tinker with the code, while letting us keep a base "stable" version that we don't touch.
+We're able to add on as many branches as we would want/need, and we can change those without any concerns with the main stable version. This lets us keep several versions of the code, and then we would see where we made the deviations at, and look through those historically.
+
+How do the diagrams help you visualize the branch structure?
+The visualization is great in showing me how the different branches extend out from the original/master branch/es, and also help show me the accessibility.
